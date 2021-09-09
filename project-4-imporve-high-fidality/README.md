@@ -9,3 +9,5 @@ https://www.figma.com/proto/6kjKKJbHHCQKJnw4NYObXu/Digital-Prototype?node-id=162
 # Ziplen link
 
 https://zpl.io/2EGKWPe
+
+https://scene.zeplin.io/project/6138bd9c83ceb72aaca86fd4
